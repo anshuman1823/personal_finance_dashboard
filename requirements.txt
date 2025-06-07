@@ -1,0 +1,9 @@
+dotenv
+langchain_huggingface
+langchain_groq
+pandas
+pydantic
+langchain_core
+plotly
+panel
+numpy
